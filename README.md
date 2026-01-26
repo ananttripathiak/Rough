@@ -1,3 +1,6 @@
+# Rought
+
+This is a rough repo for experiments, spikes, and quick tests.
 # Rough Repo
 
 This is a rough playground repository for experiments, spikes, and quick prototypes.
